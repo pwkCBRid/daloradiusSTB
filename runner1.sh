@@ -1,3 +1,4 @@
+#!/bin/bash
 opkg update
 sleep 3
 opkg install php7 php7-cgi php7-cli php7-fpm php7-mod-bcmath php7-mod-calendar php7-mod-ctype php7-mod-curl
